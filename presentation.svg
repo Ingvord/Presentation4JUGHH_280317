@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="presentation.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:cy="-737.14286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2174,5 +2174,12 @@ RU5ErkJggg==
          id="tspan3036"
          x="-1200"
          y="1000.9337">  ➔ Tango kernel developer since 2016</tspan></text>
+    <image
+       y="1972.7194"
+       x="-1665.7144"
+       id="image3137"
+       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/Europe.png"
+       height="1165"
+       width="1920" />
   </g>
 </svg>
