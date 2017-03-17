@@ -167,7 +167,7 @@
     <image
        width="1920"
        height="1165"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/Europe.png"
+       xlink:href="images/Europe.png"
        id="image3137"
        x="-1665.7144"
        y="1972.7194" />
@@ -181,7 +181,7 @@
     <image
        width="28.152096"
        height="15.285707"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/Esrf_grenoble.jpg"
+       xlink:href="images/Esrf_grenoble.jpg"
        id="image4117"
        x="-886.15204"
        y="2922.9333" />
@@ -189,20 +189,20 @@
        y="2388.6772"
        x="-707.15985"
        id="image4207"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/DESY.jpg"
+       xlink:href="images/DESY.jpg"
        height="27.507242"
        width="40.357346" />
     <image
        width="7.9137864"
        height="7.9137864"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/DESY-Logo-cyan-RGB_ger.gif"
+       xlink:href="images/DESY-Logo-cyan-RGB_ger.gif"
        id="image4379"
        x="-677.1814"
        y="2390.0735" />
     <image
        width="5.1434975"
        height="5.6059918"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/ESRF_logo.png"
+       xlink:href="images/ESRF_logo.png"
        id="image4425"
        x="-885.53894"
        y="2923.2751" />
@@ -217,21 +217,21 @@
     <image
        width="941.87872"
        height="282.34509"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/TANGO_controls_logo.png"
+       xlink:href="images/TANGO_controls_logo.png"
        id="image4533"
        x="-1247.2058"
        y="789.97144" />
     <image
        width="1273"
        height="745"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/tango.png"
+       xlink:href="images/tango.png"
        id="image4579"
        x="-1404.2159"
        y="1128.3699" />
     <image
        width="4256"
        height="2832"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/ESRF_ring.jpg"
+       xlink:href="images/ESRF_ring.jpg"
        id="image4625"
        x="-5439.2803"
        y="3937.5918" />
@@ -245,7 +245,7 @@
     <image
        width="1200"
        height="675"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/ESRF_control_room.jpg"
+       xlink:href="images/ESRF_control_room.jpg"
        id="image4785"
        x="-1040"
        y="4720.5762" />
@@ -253,13 +253,13 @@
        y="3989.2192"
        x="-800.14288"
        id="image4889"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/tango_concept.gif"
+       xlink:href="images/tango_concept.gif"
        height="492"
        width="606" />
     <image
        width="1119"
        height="493"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/rest_api.png"
+       xlink:href="images/rest_api.png"
        id="image5030"
        x="2077.6428"
        y="5608.4336" />
@@ -267,7 +267,7 @@
        y="6916.0054"
        x="424.71423"
        id="image5138"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/rest.server_binary_cache.png"
+       xlink:href="images/rest.server_binary_cache.png"
        height="975"
        width="1322" />
     <text
@@ -354,7 +354,7 @@
        y="5120.6479"
        x="493.85712"
        id="image5340"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/api_ugly.png"
+       xlink:href="images/api_ugly.png"
        height="440"
        width="698" />
     <path
@@ -427,14 +427,14 @@
        y="6664.9336"
        x="2031.4285"
        id="image3143"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/oom.png"
+       xlink:href="images/oom.png"
        height="180"
        width="1440" />
     <image
        y="7122.9336"
        x="2146.0715"
        id="image3189"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/oom_attr.png"
+       xlink:href="images/oom_attr.png"
        height="344"
        width="1205" />
     <rect
@@ -454,7 +454,7 @@
     <image
        width="677.78955"
        height="117.6142"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/api_good.png"
+       xlink:href="images/api_good.png"
        id="image7391"
        x="1493.5382"
        y="5203.9648" />
@@ -472,7 +472,7 @@
     <image
        width="1920"
        height="1165"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/rest_api_spec_filters.png"
+       xlink:href="images/rest_api_spec_filters.png"
        id="image7441"
        x="1763.3712"
        y="8446.9297" />
@@ -494,7 +494,7 @@
        y="8628.9531"
        x="3894.8489"
        id="image8053"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/response-filter.png"
+       xlink:href="images/response-filter.png"
        height="684"
        width="1334" />
     <rect
@@ -507,7 +507,7 @@
     <image
        width="1378"
        height="983"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/response-filter-inverse.png"
+       xlink:href="images/response-filter-inverse.png"
        id="image8287"
        x="3917.2957"
        y="9618.9043" />
@@ -570,7 +570,7 @@
     <image
        width="341.72748"
        height="92.285721"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/logo_hzg_rgb_deutsch.jpg"
+       xlink:href="images/logo_hzg_rgb_deutsch.jpg"
        id="image10313"
        x="1948.9868"
        y="1936.2194" />
@@ -592,7 +592,7 @@
        y="3130.4224"
        x="415.33517"
        id="image11009"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/webjive.png"
+       xlink:href="images/webjive.png"
        height="1145"
        width="1920" />
     <text
@@ -609,14 +609,14 @@
     <image
        width="1328"
        height="995"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/rest_api_spec_2.png"
+       xlink:href="images/rest_api_spec_2.png"
        id="image11303"
        x="3144.5713"
        y="3934.8623" />
     <image
        width="1087"
        height="1061"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/rest_api_spec.png"
+       xlink:href="images/rest_api_spec.png"
        id="image11365"
        x="3296.5"
        y="5044.7192" />
@@ -641,7 +641,7 @@
     <image
        width="1920"
        height="1145"
-       xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/i_am_software-developer.png"
+       xlink:href="images/i_am_software-developer.png"
        id="image13209"
        x="-1650.9443"
        y="-1669.7424" />
@@ -841,7 +841,7 @@
      y="6365.2905"
      x="3888.0715"
      id="image6771"
-     xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/image_handling.png"
+     xlink:href="images/image_handling.png"
      height="905"
      width="1321" />
   <rect
@@ -886,7 +886,7 @@
      y="7429.7905"
      x="3976.1428"
      id="image7155"
-     xlink:href="file:///home/ingvord/Documents/Talks/2017/JUGHH/images/image_handling_2.png"
+     xlink:href="images/image_handling_2.png"
      height="776"
      width="1242" />
   <rect
