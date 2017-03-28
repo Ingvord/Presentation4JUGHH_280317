@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-8186.943"
-     inkscape:cy="285.04225"
+     inkscape:cx="-8011.6609"
+     inkscape:cy="446.66666"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -225,12 +225,13 @@
          x="-1240.4061"
          y="-747.99481">  ➔ Tango kernel developer since 2016</tspan></text>
     <image
-       width="1920"
-       height="1165"
-       id="image3137"
-       x="-2138.4993"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/Europe.png"
+       xlink:href="images/Europe.png"
        y="2339.73"
-       xlink:href="images/Europe.png" />
+       x="-2138.4993"
+       id="image3137"
+       height="1165"
+       width="1920" />
     <rect
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:2.27324033;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3218"
@@ -239,33 +240,37 @@
        x="-1885.5334"
        y="2602.3127" />
     <image
-       width="28.152096"
-       height="15.285707"
-       id="image4117"
-       x="-1364.7367"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/Esrf_grenoble.jpg"
+       xlink:href="images/Esrf_grenoble.jpg"
        y="3293.0452"
-       xlink:href="images/Esrf_grenoble.jpg" />
+       x="-1364.7367"
+       id="image4117"
+       height="15.285707"
+       width="28.152096" />
     <image
-       y="2758.7891"
-       x="-1185.7445"
-       id="image4207"
-       height="27.507242"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/DESY.jpg"
+       xlink:href="images/DESY.jpg"
        width="40.357346"
-       xlink:href="images/DESY.jpg" />
+       height="27.507242"
+       id="image4207"
+       x="-1185.7445"
+       y="2758.7891" />
     <image
-       width="7.9137864"
-       height="7.9137864"
-       id="image4379"
-       x="-1154.6946"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/DESY-Logo-cyan-RGB_ger.gif"
+       xlink:href="images/DESY-Logo-cyan-RGB_ger.gif"
        y="2759.8281"
-       xlink:href="images/DESY-Logo-cyan-RGB_ger.gif" />
+       x="-1154.6946"
+       id="image4379"
+       height="7.9137864"
+       width="7.9137864" />
     <image
-       width="5.1434975"
-       height="5.6059918"
-       id="image4425"
-       x="-1364.1711"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/ESRF_logo.png"
+       xlink:href="images/ESRF_logo.png"
        y="3294.0012"
-       xlink:href="images/ESRF_logo.png" />
+       x="-1364.1711"
+       id="image4425"
+       height="5.6059918"
+       width="5.1434975" />
     <image
        y="1753.4924"
        x="537.56555"
@@ -275,26 +280,29 @@
        width="1881"
        style="fill:#000000;fill-opacity:0" />
     <image
-       width="941.87872"
-       height="282.34509"
-       id="image4533"
-       x="-1247.2058"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/TANGO_controls_logo.png"
+       xlink:href="images/TANGO_controls_logo.png"
        y="789.97144"
-       xlink:href="images/TANGO_controls_logo.png" />
+       x="-1247.2058"
+       id="image4533"
+       height="282.34509"
+       width="941.87872" />
     <image
-       width="1273"
-       height="745"
-       id="image4579"
-       x="-1404.2159"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/tango.png"
+       xlink:href="images/tango.png"
        y="1128.3699"
-       xlink:href="images/tango.png" />
+       x="-1404.2159"
+       id="image4579"
+       height="745"
+       width="1273" />
     <image
-       width="4256"
-       height="2832"
-       id="image4625"
-       x="-6627.2197"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/ESRF_ring.jpg"
+       xlink:href="images/ESRF_ring.jpg"
        y="4382.0591"
-       xlink:href="images/ESRF_ring.jpg" />
+       x="-6627.2197"
+       id="image4625"
+       height="2832"
+       width="4256" />
     <rect
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4628"
@@ -303,33 +311,37 @@
        x="-5707.9395"
        y="5268.2578" />
     <image
-       width="1200"
-       height="675"
-       id="image4785"
-       x="-1363.2488"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/ESRF_control_room.jpg"
+       xlink:href="images/ESRF_control_room.jpg"
        y="6118.627"
-       xlink:href="images/ESRF_control_room.jpg" />
+       x="-1363.2488"
+       id="image4785"
+       height="675"
+       width="1200" />
     <image
-       y="5076.5596"
-       x="-1082.9856"
-       id="image4889"
-       height="492"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/tango_concept.gif"
+       xlink:href="images/tango_concept.gif"
        width="606"
-       xlink:href="images/tango_concept.gif" />
+       height="492"
+       id="image4889"
+       x="-1082.9856"
+       y="5076.5596" />
     <image
-       width="1119"
-       height="493"
-       id="image5030"
-       x="2077.6428"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/rest_api.png"
+       xlink:href="images/rest_api.png"
        y="5608.4336"
-       xlink:href="images/rest_api.png" />
+       x="2077.6428"
+       id="image5030"
+       height="493"
+       width="1119" />
     <image
-       y="6916.0054"
-       x="424.71423"
-       id="image5138"
-       height="975"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/rest.server_binary_cache.png"
+       xlink:href="images/rest.server_binary_cache.png"
        width="1322"
-       xlink:href="images/rest.server_binary_cache.png" />
+       height="975"
+       id="image5138"
+       x="424.71423"
+       y="6916.0054" />
     <text
        sodipodi:linespacing="125%"
        id="text5141"
@@ -411,12 +423,13 @@
          id="tspan5241"
          sodipodi:role="line">First things first!</tspan></text>
     <image
-       y="5120.6479"
-       x="493.85712"
-       id="image5340"
-       height="440"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/api_ugly.png"
+       xlink:href="images/api_ugly.png"
        width="698"
-       xlink:href="images/api_ugly.png" />
+       height="440"
+       id="image5340"
+       x="493.85712"
+       y="5120.6479" />
     <path
        inkscape:connector-curvature="0"
        id="path7517"
@@ -484,19 +497,21 @@
          id="tspan3063"
          sodipodi:role="line">Central entity in TANGO is Device</tspan></text>
     <image
-       y="6632.9336"
-       x="2031.4285"
-       id="image3143"
-       height="180"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/oom.png"
+       xlink:href="images/oom.png"
        width="1440"
-       xlink:href="images/oom.png" />
-    <image
-       y="6870.3955"
+       height="180"
+       id="image3143"
        x="2031.4285"
-       id="image3189"
-       height="344"
+       y="6632.9336" />
+    <image
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/oom_attr.png"
+       xlink:href="images/oom_attr.png"
        width="1205"
-       xlink:href="images/oom_attr.png" />
+       height="344"
+       id="image3189"
+       x="2031.4285"
+       y="6870.3955" />
     <rect
        y="6180.0732"
        x="1768.3146"
@@ -505,12 +520,13 @@
        id="rect3192"
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3.20593953;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="677.78955"
-       height="117.6142"
-       id="image7391"
-       x="1493.5382"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/api_good.png"
+       xlink:href="images/api_good.png"
        y="5203.9648"
-       xlink:href="images/api_good.png" />
+       x="1493.5382"
+       id="image7391"
+       height="117.6142"
+       width="677.78955" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -523,14 +539,15 @@
          x="2410.7122"
          y="9224.6299">JSON response fields filter:</tspan></text>
     <image
-       width="1920"
-       height="1165"
-       id="image7441"
-       x="1763.3712"
-       y="8446.9297"
-       clip-path="url(#clipPath11744)"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/rest_api_spec_filters.png"
+       xlink:href="images/rest_api_spec_filters.png"
        transform="translate(127.27908,739.43166)"
-       xlink:href="images/rest_api_spec_filters.png" />
+       clip-path="url(#clipPath11744)"
+       y="8446.9297"
+       x="1763.3712"
+       id="image7441"
+       height="1165"
+       width="1920" />
     <rect
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:5.5145793;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect7446"
@@ -539,12 +556,13 @@
        x="1716.4609"
        y="9134.0664" />
     <image
-       y="9314.9531"
-       x="3894.8489"
-       id="image8053"
-       height="684"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/response-filter.png"
+       xlink:href="images/response-filter.png"
        width="1334"
-       xlink:href="images/response-filter.png" />
+       height="684"
+       id="image8053"
+       x="3894.8489"
+       y="9314.9531" />
     <rect
        y="9172.0801"
        x="3749.6863"
@@ -553,12 +571,13 @@
        id="rect8056"
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="1378"
-       height="983"
-       id="image8287"
-       x="3917.2957"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/response-filter-inverse.png"
+       xlink:href="images/response-filter-inverse.png"
        y="10304.904"
-       xlink:href="images/response-filter-inverse.png" />
+       x="3917.2957"
+       id="image8287"
+       height="983"
+       width="1378" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect8290"
@@ -616,12 +635,13 @@
        id="rect10064"
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="341.72748"
-       height="92.285721"
-       id="image10313"
-       x="2045.9614"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/logo_hzg_rgb_deutsch.jpg"
+       xlink:href="images/logo_hzg_rgb_deutsch.jpg"
        y="1612.9706"
-       xlink:href="images/logo_hzg_rgb_deutsch.jpg" />
+       x="2045.9614"
+       id="image10313"
+       height="92.285721"
+       width="341.72748" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect10318"
@@ -630,12 +650,13 @@
        x="499.83179"
        y="1580.542" />
     <image
-       y="3372.8589"
-       x="560.79712"
-       id="image11009"
-       height="1145"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webjive.png"
+       xlink:href="images/webjive.png"
        width="1920"
-       xlink:href="images/webjive.png" />
+       height="1145"
+       id="image11009"
+       x="560.79712"
+       y="3372.8589" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -648,19 +669,21 @@
          x="2280"
          y="5263.7905">REST API specification...</tspan></text>
     <image
-       width="1328"
-       height="995"
-       id="image11303"
-       x="3144.5713"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/rest_api_spec_2.png"
+       xlink:href="images/rest_api_spec_2.png"
        y="3934.8623"
-       xlink:href="images/rest_api_spec_2.png" />
+       x="3144.5713"
+       id="image11303"
+       height="995"
+       width="1328" />
     <image
-       width="1087"
-       height="1061"
-       id="image11365"
-       x="4525.0713"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/rest_api_spec.png"
+       xlink:href="images/rest_api_spec.png"
        y="4999.0049"
-       xlink:href="images/rest_api_spec.png" />
+       x="4525.0713"
+       id="image11365"
+       height="1061"
+       width="1087" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect11368"
@@ -680,12 +703,13 @@
          x="-915.95941"
          y="-2841.8118">Why am I here?</tspan></text>
     <image
-       width="1920"
-       height="1145"
-       id="image13209"
-       x="-1650.9443"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/i_am_software-developer.png"
+       xlink:href="images/i_am_software-developer.png"
        y="-2500.5996"
-       xlink:href="images/i_am_software-developer.png" />
+       x="-1650.9443"
+       id="image13209"
+       height="1145"
+       width="1920" />
     <image
        y="-4810.2495"
        x="-2096.186"
@@ -765,12 +789,13 @@
        id="rect14308"
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="166.82904"
-       height="50.010006"
-       id="image4533-5"
-       x="-1182.0868"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/TANGO_controls_logo.png"
+       xlink:href="images/TANGO_controls_logo.png"
        y="5021.9165"
-       xlink:href="images/TANGO_controls_logo.png" />
+       x="-1182.0868"
+       id="image4533-5"
+       height="50.010006"
+       width="166.82904" />
     <rect
        y="5015.6074"
        x="-1188.9495"
@@ -786,19 +811,21 @@
        x="3765.8486"
        y="9596.6387" />
     <image
-       y="2231.2195"
-       x="3170.8572"
-       id="image15457"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webjive_technologies_stack.png"
+       xlink:href="images/webjive_technologies_stack.png"
+       width="864"
        height="1368"
-       width="864"
-       xlink:href="images/webjive_technologies_stack.png" />
+       id="image15457"
+       x="3170.8572"
+       y="2231.2195" />
     <image
-       width="864"
-       height="1023"
-       id="image15769"
-       x="3144.3455"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webjive_parts.png"
+       xlink:href="images/webjive_parts.png"
        y="663.39941"
-       xlink:href="images/webjive_parts.png" />
+       x="3144.3455"
+       id="image15769"
+       height="1023"
+       width="864" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -929,40 +956,45 @@
        x="4245.7144"
        y="2222.3623" />
     <image
-       width="1132"
-       height="792"
-       id="image3378"
-       x="5491.1426"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webix_bind_1.png"
+       xlink:href="images/webix_bind_1.png"
        y="1384.9335"
-       xlink:href="images/webix_bind_1.png" />
+       x="5491.1426"
+       id="image3378"
+       height="792"
+       width="1132" />
     <image
-       y="1177.005"
-       x="6817.1431"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webix_bind_2.png"
+       xlink:href="images/webix_bind_2.png"
+       width="1920"
+       height="1145"
        id="image3736"
-       height="1145"
-       width="1920"
-       xlink:href="images/webix_bind_2.png" />
+       x="6817.1431"
+       y="1177.005" />
     <image
-       y="2351.4338"
-       x="5485.2861"
-       id="image4410"
-       height="859"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webix_promise_2.png"
+       xlink:href="images/webix_promise_2.png"
        width="1418"
-       xlink:href="images/webix_promise_2.png" />
+       height="859"
+       id="image4410"
+       x="5485.2861"
+       y="2351.4338" />
     <image
-       width="1274"
-       height="958"
-       id="image4772"
-       x="5565.8574"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webix_custom_ui_1.png"
+       xlink:href="images/webix_custom_ui_1.png"
        y="3287.6477"
-       xlink:href="images/webix_custom_ui_1.png" />
+       x="5565.8574"
+       id="image4772"
+       height="958"
+       width="1274" />
     <image
-       y="3154.1482"
-       x="6948.5713"
-       id="image5136"
-       height="1145"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webix_custom_ui_2.png"
+       xlink:href="images/webix_custom_ui_2.png"
        width="1920"
-       xlink:href="images/webix_custom_ui_2.png" />
+       height="1145"
+       id="image5136"
+       x="6948.5713"
+       y="3154.1482" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect5459"
@@ -971,19 +1003,21 @@
        x="8260"
        y="3135.2192" />
     <image
-       width="1908"
-       height="1138"
-       id="image6148"
-       x="2688.8572"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webjive_ui.png"
+       xlink:href="images/webjive_ui.png"
        y="-668.06641"
-       xlink:href="images/webjive_ui.png" />
+       x="2688.8572"
+       id="image6148"
+       height="1138"
+       width="1908" />
     <image
-       y="-1882.995"
-       x="2677.1431"
-       id="image6518"
-       height="1145"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webjive_ui_2.png"
+       xlink:href="images/webjive_ui_2.png"
        width="1920"
-       xlink:href="images/webjive_ui_2.png" />
+       height="1145"
+       id="image6518"
+       x="2677.1431"
+       y="-1882.995" />
     <rect
        y="1053.3804"
        x="3197.7776"
@@ -992,19 +1026,21 @@
        id="rect16642-3"
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       y="-672.25238"
-       x="4642.2451"
-       id="image3209"
-       height="1138"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webjive_models_1.png"
+       xlink:href="images/webjive_models_1.png"
        width="1908"
-       xlink:href="images/webjive_models_1.png" />
+       height="1138"
+       id="image3209"
+       x="4642.2451"
+       y="-672.25238" />
     <image
-       y="-1883.1105"
-       x="4652.4072"
-       id="image3255"
-       height="1147.472"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webjive_models_2.png"
+       xlink:href="images/webjive_models_2.png"
        width="1920"
-       xlink:href="images/webjive_models_2.png" />
+       height="1147.472"
+       id="image3255"
+       x="4652.4072"
+       y="-1883.1105" />
     <rect
        y="1369.5002"
        x="3161.6538"
@@ -1013,20 +1049,22 @@
        id="rect16642-3-3"
        style="fill:none;stroke:#000000;stroke-width:3.02069998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="1478"
-       height="1051"
-       id="image3196"
-       x="6861"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webix_promise_2.png"
+       xlink:href="images/webix_promise_2.png"
        y="-633.13782"
-       xlink:href="images/webix_promise_2.png" />
+       x="6861"
+       id="image3196"
+       height="1051"
+       width="1478" />
     <image
-       y="-10423.309"
-       x="1397.2416"
-       id="image3578"
-       height="1037"
-       width="1457"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/webix_promise_3.png"
+       xlink:href="images/webix_promise_3.png"
        transform="matrix(-0.00147289,0.99999892,-0.99999892,-0.00147289,0,0)"
-       xlink:href="images/webix_promise_3.png" />
+       width="1457"
+       height="1037"
+       id="image3578"
+       x="1397.2416"
+       y="-10423.309" />
     <text
        transform="matrix(0.69849892,0.7156111,-0.7156111,0.69849892,0,0)"
        xml:space="preserve"
@@ -1061,19 +1099,21 @@
        id="rect14308-9"
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="3078"
-       height="2167"
-       id="image9775"
-       x="-5921.8569"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/conceptual_design_web.png"
+       xlink:href="images/conceptual_design_web.png"
        y="-76.852104"
-       xlink:href="images/conceptual_design_web.png" />
+       x="-5921.8569"
+       id="image9775"
+       height="2167"
+       width="3078" />
     <image
-       y="2566.2908"
-       x="-5084.6426"
-       id="image10215"
-       height="435"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/plc.png"
+       xlink:href="images/plc.png"
        width="1255"
-       xlink:href="images/plc.png" />
+       height="435"
+       id="image10215"
+       x="-5084.6426"
+       y="2566.2908" />
     <rect
        y="2315.2192"
        x="-5405.7144"
@@ -1082,12 +1122,13 @@
        id="rect10218"
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="217.509"
-       height="65.202232"
-       id="image4533-3"
-       x="-4927.0811"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/TANGO_controls_logo.png"
+       xlink:href="images/TANGO_controls_logo.png"
        y="2399.5581"
-       xlink:href="images/TANGO_controls_logo.png" />
+       x="-4927.0811"
+       id="image4533-3"
+       height="65.202232"
+       width="217.509" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1100,12 +1141,13 @@
          x="-4687.1079"
          y="2456.4741">implements IoT concept</tspan></text>
     <image
-       width="508.93756"
-       height="152.56319"
-       id="image4533-3-6"
-       x="-5914.4692"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/TANGO_controls_logo.png"
+       xlink:href="images/TANGO_controls_logo.png"
        y="-305.95316"
-       xlink:href="images/TANGO_controls_logo.png" />
+       x="-5914.4692"
+       id="image4533-3-6"
+       height="152.56319"
+       width="508.93756" />
     <text
        xml:space="preserve"
        style="font-size:72px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1215,15 +1257,19 @@
          sodipodi:role="line"
          x="-9224.502"
          y="906.89441"
-         id="tspan11594">[5] http://www.webix.com</tspan><tspan
+         id="tspan11594">[5] http://www.github.com/tango-controls/tango-webapp</tspan><tspan
          sodipodi:role="line"
          x="-9224.502"
          y="1031.8944"
-         id="tspan11596">[6] http://www.bitbucket.org/ingvord/javascriptmvc-1.5.x</tspan><tspan
+         id="tspan3249">[6] http://www.webix.com</tspan><tspan
          sodipodi:role="line"
          x="-9224.502"
          y="1156.8944"
-         id="tspan11598">[7] http://resteasy.jboss.org/</tspan></text>
+         id="tspan11596">[7] http://www.bitbucket.org/ingvord/javascriptmvc-1.5.x</tspan><tspan
+         sodipodi:role="line"
+         x="-9224.502"
+         y="1281.8944"
+         id="tspan11598">[8] http://resteasy.jboss.org/</tspan></text>
     <rect
        y="-147.67863"
        x="-9517.6299"
@@ -1232,12 +1278,13 @@
        id="rect14308-9-7-2"
        style="fill:none;stroke:#000000;stroke-width:2.70000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="1103"
-       height="1017"
-       id="image3701"
-       x="3310.2144"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/rest_api_spec_3.png"
+       xlink:href="images/rest_api_spec_3.png"
        y="5012.4336"
-       xlink:href="images/rest_api_spec_3.png" />
+       x="3310.2144"
+       id="image3701"
+       height="1017"
+       width="1103" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:2.70000004999999987;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;opacity:0.5"
        id="rect3704"
@@ -1283,12 +1330,13 @@
        x="350"
        y="7740.9336" />
     <image
-       y="3834.6475"
-       x="-1763.147"
-       id="image8909"
-       height="900"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/tango_doc.png"
+       xlink:href="images/tango_doc.png"
        width="1905"
-       xlink:href="images/tango_doc.png" />
+       height="900"
+       id="image8909"
+       x="-1763.147"
+       y="3834.6475" />
     <rect
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect13184"
@@ -1359,12 +1407,13 @@
        id="rect16628"
        style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     <image
-       width="1311"
-       height="569"
-       id="image17177"
-       x="-1386.9286"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/agenda.png"
+       xlink:href="images/agenda.png"
        y="-229.28067"
-       xlink:href="images/agenda.png" />
+       x="-1386.9286"
+       id="image17177"
+       height="569"
+       width="1311" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -1377,12 +1426,13 @@
          x="2371.0127"
          y="5571.0244">REST API implementation</tspan></text>
     <image
-       width="2362"
-       height="2002"
-       id="image18258"
-       x="287.57144"
+       sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/PETRAIII_bersicht.jpg"
+       xlink:href="images/PETRAIII_bersicht.jpg"
        y="-2097.2092"
-       xlink:href="images/PETRAIII_bersicht.jpg" />
+       x="287.57144"
+       id="image18258"
+       height="2002"
+       width="2362" />
     <rect
        y="3909.5049"
        x="-1770"
@@ -1594,12 +1644,13 @@
        id="tspan6726"
        sodipodi:role="line">Embedding images into response. Why?</tspan></text>
   <image
-     y="7051.2905"
-     x="3888.0715"
-     id="image6771"
-     height="905"
+     sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/image_handling.png"
+     xlink:href="images/image_handling.png"
      width="1321"
-     xlink:href="images/image_handling.png" />
+     height="905"
+     id="image6771"
+     x="3888.0715"
+     y="7051.2905" />
   <rect
      y="7042.6826"
      x="3791.4285"
@@ -1639,12 +1690,13 @@
      ns1:timeout-enable="false"
      ns1:transition-profile="linear" />
   <image
-     y="8195.791"
-     x="3976.1428"
-     id="image7155"
-     height="776"
+     sodipodi:absref="/storage/Documents/Talks/2017/JUGHH/Presentation4JUGHH_280317/images/image_handling_2.png"
+     xlink:href="images/image_handling_2.png"
      width="1242"
-     xlink:href="images/image_handling_2.png" />
+     height="776"
+     id="image7155"
+     x="3976.1428"
+     y="8195.791" />
   <rect
      y="8055.2192"
      x="3777.1431"
